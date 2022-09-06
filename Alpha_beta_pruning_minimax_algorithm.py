@@ -1,6 +1,6 @@
 import math
 # Initial values of Alpha and Beta
-MAX, MIN = float('inf'), -float('inf')
+MAX, MIN = math.inf, -math.inf
 
 # Returns optimal value for current player
 #(Initially called for root and maximizer)
